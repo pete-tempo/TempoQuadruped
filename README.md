@@ -1,9 +1,8 @@
 # TempoQuadruped
-Tempo quadruped locomotion example plugin
+
+A simple Unreal content plugin demonstrating how to use the [Locomotor](https://dev.epicgames.com/community/learning/tutorials/EkxO/unreal-engine-procedural-animation-with-a-locomotor) plugin, new in UE 5.6, to procedurally animate a quadruped robot. Enjoy! Need some help? Find the authors on [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/bKa2hnGYnw)
 
 https://github.com/user-attachments/assets/f485e9b2-ca4d-4a7e-9169-c9412886a1f6
-
-This is a simple content plugin demonstrating how to use the [Locomotor](https://dev.epicgames.com/community/learning/tutorials/EkxO/unreal-engine-procedural-animation-with-a-locomotor) plugin, new in UE 5.6, to procedurally animate a quadruped robot.
 
 The Unitree Go2 model in this plugin was adapted from Christophe Yamahata's [Robot dog Unitree Go2](https://www.fab.com/listings/ec13616a-bc74-40b8-81df-a8e6c62d3e6f)
 
