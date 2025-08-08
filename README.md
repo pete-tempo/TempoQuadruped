@@ -2,7 +2,7 @@
 
 A simple Unreal content plugin demonstrating how to use the [Locomotor](https://dev.epicgames.com/community/learning/tutorials/EkxO/unreal-engine-procedural-animation-with-a-locomotor) plugin, new in UE 5.6, to procedurally animate a quadruped robot. Enjoy! Need some help? Find the authors on [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/bKa2hnGYnw)
 
-https://github.com/user-attachments/assets/9d83ca7f-5b85-46d6-802f-6c446828250d
+https://github.com/user-attachments/assets/2ccde47d-799f-4835-af32-8124732d353f
 
 The Unitree Go2 model in this plugin was adapted from Christophe Yamahata's [Robot dog Unitree Go2](https://www.fab.com/listings/ec13616a-bc74-40b8-81df-a8e6c62d3e6f)
 
